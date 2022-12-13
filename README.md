@@ -19,11 +19,11 @@ This is the project im currently working on. it is a Inventory control system fo
 
 - <a href="https://github.com/mekona-hbtn/opiTranslate">Capston Project: OpiTranslate</a>
 
-OpiTranslate was my final project for the bootcamp, here we colaborate with the startup Opground to develop a new funtionality for their website. Here I did mostly the CI/CD deployments as we used new technologies such as Docker and GithubActions. This project was awarded as the best in the presentation at the end of Cohort 16 of Holberton School Colombia.
+OpiTranslate was my final project for the bootcamp, here we colaborate with the startup Opground to develop a new funtionality for their website. Here I did mostly the CI/CD deployments as we used new technologies such as Docker and GithubActions.
 
 - <a href="https://github.com/pipeleon/AirBnB_clone_v4">Airbnb Clone</a>
 
-This is a Airbnb clone develop during me being at the bootcamp, Here it is apply all of the principles of software developing.
+This is a project develop during my time at the bootcamp, Here it's apply all of the principles of software developing.
 
 
 
@@ -67,11 +67,11 @@ This is a Airbnb clone develop during me being at the bootcamp, Here it is apply
   </a>    
   <a> <img
         src="https://upload.wikimedia.org/wikipedia/commons/c/c6/NginxLogo.gif"
-        alt="Nginx" height="40" />
+        alt="Nginx" width="90" />
   </a>    
   <a> <img
         src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"
-        alt="Docker" height="40" />
+        alt="Docker" width="90" />
   </a> 
   <a> <img
         src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
