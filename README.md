@@ -21,8 +21,8 @@ Here's my current Stack:
         alt="html5" width="40" height="40" />
   </a>
   <a> <img
-        src="[https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
-        alt="html5" width="40" height="40" />
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
+        alt="html5" height="40" />
   </a>
   <a> <img
         src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
